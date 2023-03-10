@@ -1,6 +1,6 @@
 #include "rutil/Lock.hxx"
 
-
+using resip::Mutex;
 using resip::ReadLock;
 using resip::WriteLock;
 using resip::PtrLock;
